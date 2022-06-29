@@ -1,0 +1,1 @@
+Projeto feito para informar a temperatura, velocidade e direção do vento em qualquer parte do mundo, utilizando a requisição em API externo.
